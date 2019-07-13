@@ -7,12 +7,12 @@ def reverse_each_word (string)
   newer.join(" ")
 end
 
-def reverse_each_word (string)
-  new = string.split(" ")
-  new.collect{ |thingy| thingy.reverse! }
-  new.join(" ")
-end
-
-def reverse_each_word(string)
-
-end
+# def reverse_each_word (string)
+#   new = string.split(" ")
+#   new.collect{ |thingy| thingy.reverse! }
+#   new.join(" ")
+# end
+# 
+# def reverse_each_word(string)
+# 
+# end
