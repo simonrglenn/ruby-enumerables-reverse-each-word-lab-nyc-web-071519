@@ -12,7 +12,7 @@ end
 #   new.collect{ |thingy| thingy.reverse! }
 #   new.join(" ")
 # end
-# 
+#
 # def reverse_each_word(string)
-# 
+#
 # end
